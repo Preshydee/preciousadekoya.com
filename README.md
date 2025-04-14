@@ -3,15 +3,15 @@
 My portfolio
 
 
-# Hi, I'm Hemense! 👋
+# Hi, I'm Precious! 👋
 
 
 ## 🚀 About Me
-I'm a frontend developer...
+I'm a Devops Engineer...
 
 
 ## 🛠 Skills
-Typescript, Javascript, HTML, CSS, React, Next...
+AWS, GCP, Docker, Kubernetes, Cloud Formation, Terraform...
 
 
 ## Deployment
